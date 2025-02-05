@@ -7,6 +7,7 @@ const todos = [
   "✔ Créer des composants",
   "✔ Gérer l'état avec useState",
   "✔ Manipuler les événements (onClick, onChange, etc.)",
+  "✔ Le flux de données"
 ];
 
 // Les Hooks en React permettent d'utiliser l'état et d'autres fonctionnalités de React sans écrire de classes.
